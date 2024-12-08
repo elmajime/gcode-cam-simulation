@@ -1,0 +1,6 @@
+[package]
+name = "gcode_cam_simulation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
